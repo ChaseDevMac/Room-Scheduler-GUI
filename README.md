@@ -1,8 +1,6 @@
 # Room-Scheduler-GUI
 A room scheduler GUI built in NetBeans (version 8.2) using SwingFX with a Derby database in the backend
 
-This was a school project for a sophomore-level class. We were required to use an old verison of NetBeans (8.2) and Java JDK (8u281). I believe this is because JavaDB isn't included in current versions of NetBeans.
-
 Requirements:\
   &nbsp;&nbsp;-Java JDK 8u281\
   &nbsp;&nbsp;-NetBeans 8.2\
