@@ -5,7 +5,7 @@ This was a school project for a sophomore-level class. We were required to use a
 
 Requirements:\
   &nbsp;&nbsp;-Java JDK 8u281\
-  &nbsp;&nbsp;-NetBeans 8.2
+  &nbsp;&nbsp;-NetBeans 8.2\
   &nbsp;&nbsp;-Derby Database
  
  Dependencies:\
